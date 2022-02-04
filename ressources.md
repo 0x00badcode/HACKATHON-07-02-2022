@@ -7,10 +7,12 @@
 ##### linPEAS :
 
     https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
+> download with ```curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh | sh```
 
 ##### LinEnum :
 
     https://github.com/rebootuser/LinEnum
+> you can also find it [here](/../ressources/LinEnum.sh)
 
 ## GTFOBins
 
