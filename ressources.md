@@ -12,7 +12,7 @@
 ##### LinEnum :
 
     https://github.com/rebootuser/LinEnum
-> you can also find it [here](/ressources/LinEnum.sh)
+> you can also find it [here](/ressources/)
 
 ## GTFOBins
 
