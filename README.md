@@ -47,6 +47,10 @@ For the upcomming challenges you will need a series of tools we will install in 
      - Debian/Ubuntu : ```sudo apt-get install john```
      - Fedora : ```sudo dnf install john```
 
+  4. Wordlists :
+  
+  go to ```/usr/share/``` and clone [this repository](https://github.com/danielmiessler/SecLists) into "wordlists" with ```git clone git@github.com:danielmiessler/SecLists.git wordlists```
+
 
 ------------------
 
