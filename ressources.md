@@ -48,3 +48,10 @@ BTFOBins is a website you can refer to if you find binaries that can be used to 
 ### GoBuster :
 
     https://3os.org/penetration-testing/cheatsheets/gobuster-cheatsheet/
+    
+    
+### John The Ripper :
+
+    https://www.golinuxcloud.com/john-the-ripper-password-cracker/
+    
+    https://cheatsheet.haax.fr/passcracking-hashfiles/john_cheatsheet/
